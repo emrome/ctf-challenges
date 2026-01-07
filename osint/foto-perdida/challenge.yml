@@ -1,6 +1,10 @@
 name: "La foto perdida"
 author: "Fac. Informática – Proyecto Escuelas"
 category: "OSINT"
+value: 50
+type: "standard"
+state: "visible"
+attempts: 0
 
 description: |
   <h4 style="margin:0 0 8px 0;text-align:center;">📸🌎</h4>
@@ -9,13 +13,8 @@ description: |
   <p>Si alguien curioso decide investigar un poco más, podrá descubrir que la imagen pertenece a un lugar muy distinto del que ella mencionó.</p>
   <p>¿Podés averiguar en qué país fue tomada realmente?</p>
 
-value: 50
-type: "standard"
-state: "visible"
-attempts: 0
-
 tags:
-  - "nivel: avanzado"
+  - "nivel: medio"
   - "categoría: osint"
   - "formativo"
 
@@ -26,12 +25,13 @@ flags:
     }
 
 hints:
-  - { cost: 1, content: "Antes de creerle a una publicación, podés buscar si la imagen aparece en otro lado." }
-  - { cost: 5, content: "¿Probaste con Google Images?" }
+  - { cost: 5, content: "Antes de creerle a una publicación, podés buscar si la imagen aparece en otro lado." }
+  - { cost: 15, content: "¿Probaste con Google Images?" }
 
 files:
   - foto_perdida.jpg
 
 requirements:
   - "El viaje de Sofi"
+  - "El cumpleaños filtrado"
   - "Bienvenido/a al CTF"

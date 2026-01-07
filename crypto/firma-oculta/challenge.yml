@@ -1,0 +1,59 @@
+name: "La firma oculta"
+author: "Fac. Informática – Proyecto Escuelas"
+category: "Criptografía"
+
+description: |
+  <h4 style="margin:0 0 10px 0;text-align:center;">🧪🖋️</h4>
+  <p>En el laboratorio digital de la escuela, alguien publicó un acta de resultados con una firma pública para comprobar su autenticidad.</p>
+
+  <p>Ahora circulan dos versiones distintas del mismo archivo.  
+  Solo una es la original: su autor publicó una <em>huella</em> hexadecimal que permite verificarla:</p>
+
+  <blockquote style="margin:8px 0;padding:8px;border-left:3px solid #ccc;font-family:monospace;">
+  518d24a5b09c30a06e6944a99375ab8d4abbe29c2d491d1d99c97d744d189c38
+  </blockquote>
+
+  <p>Descargá las dos versiones adjuntas, calculá la huella de cada una y comparala con la publicada.  
+  Ingresá el nombre del archivo correcto en formato <code>flag{nombre_sin_extension}</code>.  
+  <em>Nota:</em> la huella es resultante de aplicar una función resumen al archivo; si el contenido cambia mínimamente, la huella también cambia.</p>
+
+type: "standard"
+value: 70
+state: "visible"
+attempts: 0
+
+tags:
+  - "nivel: avanzado"
+  - "categoría: criptografía"
+  - "formativo"
+
+hints:
+  - {
+      cost: 6,
+      content: "La huella es el resultado de una función resumen criptográfica: sirve para comprobar integridad, no para recuperar contenido."
+    }
+  - {
+      cost: 10,
+      content: "Esa huella hex tiene pinta de ser de la familia SHA. ¿Qué miembro crees que la generó? Prueba los más famosos con los archivos, ¡uno te dará la respuesta!"
+    }
+
+files:
+  - "dist/acta1_lab3.txt"
+  - "dist/acta2_lab3.txt"
+
+flags:
+  - {
+      type: "static",
+      content: "flag{acta2_lab3}",
+      data: "case_insensitive"
+    },
+  - {
+      type: "static",
+      content: "flag{acta2_lab3.txt}",
+      data: "case_insensitive"
+    },
+
+requirements:
+  - "Una mezcla sospechosa"
+  - "El número binario"
+
