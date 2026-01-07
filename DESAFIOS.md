@@ -11,13 +11,13 @@ La información aquí resumida corresponde a una versión simplificada del **ane
 | Nombre | Categoría | Subcategoría | Nivel | Puntaje | Concepto central | Dimensión CIA | Tipo de habilidad |
 |------|-----------|--------------|-------|----------|------------------|---------------|-------------------|
 | [Bienvenido/a al CTF](introduccion/bienvenido-al-ctf/) | Introducción | — | Introductorio | 1 | Dinámica CTF y flags | — | Comprensión de consignas |
-| [El Post-it Olvidado](autenticacion/contrasenas/el-post-it-olvidado/) | Autenticación | Contraseñas | Fácil | 20 | Exposición física de credenciales | Confidencialidad | Observación |
-| [Tu primera clave](autenticacion/contrasenas/tu-primera-clave/) | Autenticación | Contraseñas | Fácil | 20 | Uso de datos personales como contraseña | Confidencialidad | Análisis |
-| [La fórmula secreta](autenticacion/contrasenas/la-formula-secreta/) | Autenticación | Contraseñas | Medio | 45 | Patrones predecibles en contraseñas | Confidencialidad | Razonamiento lógico |
-| [Recuperar mi cuenta](autenticacion/contrasenas/recuperar-mi-cuenta/) | Autenticación | Contraseñas | Medio | 50 | Reconstrucción de contraseñas con datos públicos | Confidencialidad | Análisis y correlación |
-| [El Efecto Dominó](autenticacion/contrasenas/el-efecto-domino/) | Autenticación | Contraseñas | Avanzado | 80 | Reutilización de credenciales | Confidencialidad | Análisis crítico |
-| [El Movimiento Maestro](autenticacion/contrasenas/el-movimiento-maestro/) | Autenticación | Contraseñas | Avanzado | 80 | Patrones de comportamiento como contraseña | Confidencialidad | Razonamiento lógico |
-| [Mismo Invierno, Nuevo Año](autenticacion/contrasenas/mismo-invierno-nuevo-ano/) | Autenticación | Contraseñas | Avanzado | 90 | Actualización predecible de contraseñas | Confidencialidad | Análisis crítico |
+| [El Post-it Olvidado](autenticacion/contraseñas/el-post-it-olvidado/) | Autenticación | Contraseñas | Fácil | 20 | Exposición física de credenciales | Confidencialidad | Observación |
+| [Tu primera clave](autenticacion/contraseñas/tu-primera-clave/) | Autenticación | Contraseñas | Fácil | 20 | Uso de datos personales como contraseña | Confidencialidad | Análisis |
+| [La fórmula secreta](autenticacion/contraseñas/la-formula-secreta/) | Autenticación | Contraseñas | Medio | 45 | Patrones predecibles en contraseñas | Confidencialidad | Razonamiento lógico |
+| [Recuperar mi cuenta](autenticacion/contraseñas/recuperar-mi-cuenta/) | Autenticación | Contraseñas | Medio | 50 | Reconstrucción de contraseñas con datos públicos | Confidencialidad | Análisis y correlación |
+| [El Efecto Dominó](autenticacion/contraseñas/el-efecto-domino/) | Autenticación | Contraseñas | Avanzado | 80 | Reutilización de credenciales | Confidencialidad | Análisis crítico |
+| [El Movimiento Maestro](autenticacion/contraseñas/el-movimiento-maestro/) | Autenticación | Contraseñas | Avanzado | 80 | Patrones de comportamiento como contraseña | Confidencialidad | Razonamiento lógico |
+| [Mismo Invierno, Nuevo Año](autenticacion/contraseñas/mismo-invierno-nuevo-ano/) | Autenticación | Contraseñas | Avanzado | 90 | Actualización predecible de contraseñas | Confidencialidad | Análisis crítico |
 | [Soporte de Netflix](fraude/phishing/soporte-de-netflix/) | Phishing | — | Fácil | 20 | Identificación de correos fraudulentos | Confidencialidad | Observación |
 | [¿Es real o fake?](fraude/phishing/es-real-o-fake/) | Phishing | — | Fácil | 20 | Reconocimiento de engaños digitales | Confidencialidad / Integridad | Observación y análisis |
 | [El Mod Peligroso](fraude/phishing/el-mod-peligroso/) | Phishing | — | Medio | 50 | Riesgos de archivos enviados por terceros | Confidencialidad / Disponibilidad | Análisis crítico |
