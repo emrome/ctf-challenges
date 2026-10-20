@@ -42,9 +42,8 @@ flags:
 
 requirements:
   - "Mensaje en la botella"
-  - "El eco en el aula"
+  - "El eco del aula"
   - "Una mezcla sospechosa"
   - "El número binario"
-  - "La firma oculta"
   - "El secreto doble"
 
