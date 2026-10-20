@@ -8,7 +8,7 @@ Este repositorio reúne desafíos diseñados para trabajar conceptos de segurida
 
 ## Sobre este repositorio
 
-Este repositorio contiene **31 desafíos** organizados por categoría y nivel de dificultad, diseñados en el contexto del proyecto de extensión **“Extensión en vínculo con escuelas secundarias”** de la Facultad de Informática de la Universidad Nacional de La Plata (UNLP).
+Este repositorio contiene **32 desafíos** organizados por categoría y nivel de dificultad, diseñados en el contexto del proyecto de extensión **“Extensión en vínculo con escuelas secundarias”** de la Facultad de Informática de la Universidad Nacional de La Plata (UNLP).
 
 Los desafíos fueron pensados para actividades de formación y concientización en seguridad digital con estudiantes de nivel secundario. Su objetivo no es formar especialistas técnicos en ciberseguridad, sino acercar conceptos fundamentales mediante experiencias de aprendizaje accesibles, lúdicas y orientadas a la reflexión.
 
@@ -65,7 +65,7 @@ Cada desafío puede incluir, según corresponda:
 | **Phishing** | 6 | Fácil a Avanzado | Suplantación, dominios falsos, quishing, mensajes fraudulentos |
 | **OSINT** | 7 | Fácil a Avanzado | Huella digital, geolocalización, metadatos, correlación de fuentes |
 | **Criptografía** | 8 | Fácil a Avanzado | Cifrado clásico, codificación, representación binaria, integridad |
-| **Ingeniería Social** | 2 | Fácil a Medio | Urgencia, autoridad, manipulación, identidades falsas |
+| **Ingeniería Social** | 3 | Fácil a Avanzado | Urgencia, autoridad, manipulación, identidades falsas, acceso físico |
 
 Ver tabla completa con puntajes y metadatos en [`DESAFIOS.md`](./DESAFIOS.md).
 

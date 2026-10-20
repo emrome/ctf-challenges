@@ -41,3 +41,4 @@ La información aquí resumida corresponde a una versión simplificada del **ane
 | [El mensaje imposible](criptografia/mensaje-imposible/) | Criptografía | — | Avanzado | 90 | Transposición del mensaje | Confidencialidad | Razonamiento abstracto |
 | [El comunicado de urgencia](ingenieria-social/comunicado-urgente/) | Ingeniería Social | — | Fácil | 20 | Manipulación por urgencia y autoridad | Confidencialidad | Análisis crítico |
 | [Identidad compuesta](ingenieria-social/identidad-compuesta/) | Ingeniería Social | — | Medio | 50 | Construcción de identidades falsas | Confidencialidad | Detección de engaño |
+| [La tarjeta de acceso olvidada](ingenieria-social/tarjeta-acceso-olvidada/) | Ingeniería Social | — | Avanzado | 60 | Tailgating y pretexto de urgencia | Confidencialidad | Reconocimiento de tácticas |
